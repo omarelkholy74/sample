@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff;
+}
+figcaption p{
+    color: #7A7777;
+    margin-left: 170px;
+}
+header{
+    background-color: #FFF;
+    border-bottom: 1px solid #000;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+}
+footer{
+    background-color: #FFF;
+    border-top: 1px solid #000;
+    width: 100%;
+    text-align: center;
+    margin-top: 500px;
+     padding-bottom: 10px;
+     color: #000;
+}
+.no{
+    float: right;
+    position: relative;
+    margin-top: 0px;
+}
+
+
+
